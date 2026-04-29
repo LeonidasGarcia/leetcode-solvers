@@ -55,8 +55,10 @@ const descriptionContent = name
 `
   : `# ${number}
 
-**Difficulty:**  
+**Difficulty:**
+
 **URL:**  
+
 **Topics:** 
 
 ## Problem
